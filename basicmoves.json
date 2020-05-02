@@ -1,0 +1,17 @@
+{
+	"5L": {
+		"startup": 6,
+		"blockstun": 11,
+		"advantage": -3
+	},
+	"2L": {
+		"startup": 7,
+		"blockstun": 11,
+		"advantage": -2
+	},
+	"5M": {
+		"startup": 10,
+		"blockstun": 15,
+		"advantage": -4
+	}
+}
